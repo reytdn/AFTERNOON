@@ -10,23 +10,6 @@ public class LIBRARY {
             System.out.println("1. History");
             System.out.println("2. Philosophy");
 
-        } else if (type.equalsIgnoreCase("Fiction")){
-            System.out.println();
-            System.out.println("----GENRE CHOICES----");
-            System.out.println();
-            System.out.println("1. Fantasy");
-            System.out.println("2. Science Fiction");
-        } else {
-            System.out.println();
-            System.out.println("Not in Choices");
-        } 
-
-    }
-
-    //Choices of Titles
-    public void checkchoicesgenre(String genre, String type){
-        if (genre.equalsIgnoreCase("History")&& type.equalsIgnoreCase("Non-Fiction")){
-            System.out.println();
             System.out.println("----TITLE CHOICES----");
             System.out.println();
             System.out.println("1. Black and British");
@@ -51,12 +34,7 @@ public class LIBRARY {
             System.out.println("----TITLE CHOICES----");
             System.out.println();
             System.out.println("1. 1984");
-            System.out.println("2. Ready Player One");
-
-            System.out.println("I'm SHEKINAH");
-            System.out.println("I'm CARL");
-            System.out.println("I'm REYNALDO");
-            
+            S
         }
     }
     
