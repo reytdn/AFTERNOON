@@ -54,6 +54,8 @@ public class LIBRARY {
             System.out.println("2. Ready Player One");
 
             System.out.println("I'm SHEKINAH");
+            System.out.println("I'm CARL");
+            System.out.println("I'm REYNALDO");
             
         }
     }
